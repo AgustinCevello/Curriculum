@@ -1,0 +1,109 @@
+/* estilo del titulo */
+h1{
+    font-size: 2em;
+    color:#f4c2c2;
+    height: 35px;
+    width: 300px;
+    border: dotted #bb6f91  2px;
+    margin-left: 475px;
+    margin-top: 35;
+    padding: 10px;
+    background-color: black;
+}
+
+/* le saco el puntito del li */
+ul{
+    list-style: none;
+    
+}
+
+/* arbol */
+.imag1{ 
+    margin-left: 585px;
+    margin-top: 300px;
+}
+
+/* foto de perfil */
+.imag2{ 
+    margin-left: 534px;
+    margin-top: 130px;
+}
+
+/* el fondo de los textos de todas las pestañas */
+.fondonegro{
+    font-size: 2em; 
+    color: aliceblue;
+    padding: 20px;
+    border: outset #df3687  2px;
+    width: 360px;
+    margin-left: 30px;
+}
+
+/* para que si pones el mouse arriba de la pestaña de referencia cambie de estilo*/
+.button:hover {
+    font-size: 2em;
+    background-color: violet;
+    color: black;
+    border: dotted purple  2px;
+}
+
+/* la pestaña en la que estas cambia de estilo */
+.estoy{
+    font-size: 2.4em;
+    background-color: violet;
+    color: black;
+    border: dotted black  2px;
+}
+
+/* el estilo de las pestañas */
+.clase1{
+    font-size: 2em;
+    background-color: violet;
+    color: black;
+    border: dotted black  1px;
+    margin-top: 150px;
+    /* margin-left: 100px; */
+    /* margin-top: 225px; */
+}
+
+/* los margenes de las pestañas*/
+.margin{
+    margin-left: 250px;
+}
+
+.margintop{
+    margin-top: 50px;
+
+}
+
+/* fondos de cada pestaña */
+.fondo1
+{
+    background-image: url(../imagenes/1tulip.png);
+    background-color: black;
+}
+.fondo2
+{
+    background-image: url(../imagenes/2tulip.png);
+    background-color: black;
+}
+.fondo3
+{
+    background-image: url(../imagenes/3tulip.png);
+    background-color: black;
+}
+.fondo4
+{
+    background-image: url(../imagenes/4tulip.png);
+    background-color: black;
+}
+.fondo5
+{
+    background-image: url(../imagenes/5tulip.png);
+    background-color: black;
+}
+.fondo6
+{
+    background-image: url(../imagenes/6tulip.png);
+    background-color: black;
+}
